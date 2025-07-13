@@ -1,0 +1,28 @@
+[
+    {
+        "name": "search_web",
+        "description": "Searches the web using chrome",
+        "inputs": ["query"]
+    },
+    {
+        "name": "summarize_text",
+        "description": "Summarizes the given input text.",
+        "inputs": ["text"]
+    },
+    {
+        "name": "upload_notes",
+        "description": "Uploads text notes to Google Drive.",
+        "inputs": ["note_content"]
+    },
+    {
+        "name": "convert_to_pdf",
+        "description": "Converts a document to PDF format.",
+        "inputs": ["document_path"]
+    },
+    {
+        "name": "send_email",
+        "description": "Sends an email to the specified recipient.",
+        "inputs": ["recipient", "subject", "body"]
+    }
+
+]

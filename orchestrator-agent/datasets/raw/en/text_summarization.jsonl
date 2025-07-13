@@ -1,0 +1,9 @@
+{
+  "instruction": "Summarize this article for me.",
+  "response": {
+    "action": "summarize_text",
+    "args": {
+      "text": "user_input_text"
+    }
+  }
+}

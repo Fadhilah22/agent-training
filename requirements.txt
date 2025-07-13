@@ -1,0 +1,10 @@
+torch                  # Use correct CUDA version manually (see below)
+transformers>=4.35.0
+datasets
+peft
+accelerate
+bitsandbytes
+sentencepiece
+scipy
+jupyter
+ipykernel

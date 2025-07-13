@@ -1,0 +1,27 @@
+{
+  "instruction": "Can you turn this into a PDF for me?",
+  "response": {
+    "action": "convert_to_pdf",
+    "args": {
+      "document_path": "user_input_file"
+    }
+  }
+}
+{
+  "instruction": "convert this to pdf",
+  "response": {
+    "action": "convert_to_pdf",
+    "args": {
+      "document_path": "user_input_file"
+    }
+  }
+}
+{
+  "instruction": "convert to pdf",
+  "response": {
+    "action": "convert_to_pdf",
+    "args": {
+      "document_path": "user_input_file"
+    }
+  }
+}
